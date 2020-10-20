@@ -1,0 +1,47 @@
+#A{
+    height:250px;
+    background-color: blueviolet;
+    display: flex;
+}
+
+
+
+#b1{
+    flex-grow: 1;
+    background-color: lightblue;
+
+}
+#b2{
+    flex-grow: 1;
+    background-color: green;
+
+}#b3{
+    flex-grow: 1;
+    background-color: grey;
+
+}
+#b4{
+    flex-grow: 1;
+    background-color: red;
+
+}
+#c{
+    flex-grow: 1;
+    height: 600px;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid grey;
+}
+#e1{
+    flex-grow: 1;
+    background-color: linen;
+}
+#e2{
+    flex-grow: 1;
+    background-color: blue;
+}
+#e3{
+    flex-grow: 1;
+    background-color: firebrick;
+}
